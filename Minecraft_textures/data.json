@@ -1,0 +1,15 @@
+{
+    "textures":{
+        "stone":[128,128,128], 
+        "dirt":[50,180,50],
+        "wood":[191,106,34],
+        "water":[50,50,180]
+    },
+
+    "type_blocks" : { 
+        "stone":[["stone","andesite","brick"],["redstone"]],
+        "dirt":[["dirt","grass"],["redstone"]],
+        "wood":[["acacia","oak","spruce","birch","jungle"],["redstone"]],
+        "water":[["water"],["redstone"]]
+    }
+}
